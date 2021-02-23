@@ -1,7 +1,7 @@
 {
   "name": "publisher-subscriber-provider",
-  "version": "0.0.0-alpha.2",
-  "description": "publisher subscriber provider",
+  "version": "0.0.1",
+  "description": "This package is an implementation of the publisher-subscriber pattern, using react hooks and context. It provides the necessary tools to publish events and subscribe to them. Control that no re-renders are performed on components that are not affected by published events.",
   "files": [
     "dist",
     "lib",
