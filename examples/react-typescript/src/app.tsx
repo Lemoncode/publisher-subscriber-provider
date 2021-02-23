@@ -5,7 +5,6 @@ import { PublisherSubscriberProvider } from "publisher-subscriber-provider";
 import { Other } from "./components/other.component";
 
 export const App: React.FC = () => {
-  const [state, setState] = React.useState("");
   return (
     <>
       <PublisherSubscriberProvider>
